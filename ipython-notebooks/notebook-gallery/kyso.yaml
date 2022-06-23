@@ -1,0 +1,6 @@
+main: Notebook Gallery.ipynb
+title: "Databricks Notebook Gallery"
+description: "This gallery contains links to various Databricks notebooks, videos, and blogs; please review the notebook's instructions on any of its dependencies."
+organization: francisco-javier-barrena
+team: databricks-samples
+type: jupyter
