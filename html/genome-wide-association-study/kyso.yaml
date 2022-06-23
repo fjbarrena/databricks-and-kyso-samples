@@ -1,0 +1,6 @@
+main: 01-genome-wide-association-study.html
+title: "Genome Wide Association Study"
+description: "This notebook is designed to provide a broad overview of Hail's functionality, with emphasis on the functionality to manipulate and query a genetic dataset. We walk through a genome-wide SNP association test, and demonstrate the need to control for confounding caused by population stratification."
+organization: francisco-javier-barrena
+team: databricks-samples
+type: website
