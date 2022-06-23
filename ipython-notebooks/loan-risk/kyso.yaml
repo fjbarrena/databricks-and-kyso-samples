@@ -1,0 +1,6 @@
+main: 01a-Delta Lake Workshop - Delta Lake Primer + MLflow.ipynb
+title: "Ensuring Consistency with ACID Transactions with Delta Lake (Loan Risk Data)"
+description: "This is a companion notebook to provide a Delta Lake example against the Lending Club data."
+organization: francisco-javier-barrena
+team: databricks-samples
+type: jupyter
