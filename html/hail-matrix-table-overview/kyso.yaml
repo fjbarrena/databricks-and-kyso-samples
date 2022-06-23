@@ -1,0 +1,6 @@
+main: Hail-MatrixTable-Overview.html
+title: "Hail MatrixTable Overview"
+description: "This notebook is designed to provide an overview of Hail's MatrixTable Analysis which is the foundation for many of the analytics functions provided by Hail."
+organization: francisco-javier-barrena
+team: databricks-samples
+type: website
