@@ -1,0 +1,6 @@
+main: Koalas - Simplifying PySpark with Pandas.ipynb
+title: "Koalas - Simplifying PySpark with Pandas"
+description: "This notebook provides a sample example of scaling your machine learning using Koalas: Pandas API on Apache Spark."
+organization: francisco-javier-barrena
+team: databricks-samples
+type: jupyter
